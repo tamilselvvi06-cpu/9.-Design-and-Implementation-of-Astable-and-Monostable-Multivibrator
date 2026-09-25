@@ -86,7 +86,9 @@ RA=7.2KΩ, RB= 3.6KΩ
 <img width="1568" height="1600" alt="image" src="https://github.com/user-attachments/assets/e7fe45ec-e1be-401e-a3ac-99888eece3fa" />
 
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/932a780e-22c8-4b8c-a4bb-15ff559cb1f5" />
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b66d65e1-087a-4203-9461-13b6f9fd3c8a" />
 
 **RESULT:**
 Thus the Astable and Monostable multivibrator is designed and tested using 555 timer IC
